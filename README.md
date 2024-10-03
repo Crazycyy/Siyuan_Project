@@ -1,4 +1,5 @@
 
+Project2:
 “SafeGuard Pro” —— A smart hazard detection and alarm system:
 
 A dependable system for detecting hazardous behaviors and unsafe conditions in a real- time manner is necessary to prevent accidents and ensure compliance with safety regulations.
@@ -14,7 +15,6 @@ This function can ensure track dangerous conditions like gas leaks, high tempera
 
 3.Real-Time Alerts Using APIs
 Once a hazardous condition is detected, an SMS alert is sent to responsible personnel.
-
 
 4. Generating an Incident Report Using Google Docs API
 Save all detected hazards into a database for later audits and automatically generate an incident report for safety documentation.
