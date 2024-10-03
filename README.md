@@ -1,6 +1,7 @@
 Project1:
 Signature Forgery Detection Using Graph Neural Networks
 The project will utilize graph neural network technology to screen, analyze and identify possible counterfeit documents, to reduce the potential possibility of property loss or social damage.
+
 Project2:
 “SafeGuard Pro” —— A smart hazard detection and alarm system:
 
