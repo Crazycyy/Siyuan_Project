@@ -15,7 +15,6 @@ CCTV cameras with IP can help to locate the position of different production lin
 Use sensors connected with a cloud platform to monitor environmental conditions such as temperature or humidity. 
 This function can ensure track dangerous conditions like gas leaks, high temperatures or excessive noise levels.
 
-
 3.Real-Time Alerts Using APIs
 Once a hazardous condition is detected, an SMS alert is sent to responsible personnel.
 
